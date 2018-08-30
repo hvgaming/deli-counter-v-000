@@ -7,7 +7,7 @@ end
 
 take_a_number(katz_deli, "vaibhav")
 take_a_number(katz_deli, "harsh")
-
+katz_deli = []
 def line(array)
   empty = []
   if array.length<1 
